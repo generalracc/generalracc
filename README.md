@@ -4,7 +4,7 @@
 
 <h2 align="center"> Electronics Engineer | India</h3>
 
-### 🛰️ What I working on
+### 🛰️ Things I am working on
 
 - Ultra-low power embedded systems  
 - STM32 / Nordic SoCs  
